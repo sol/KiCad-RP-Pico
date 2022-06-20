@@ -6,7 +6,7 @@
     (property "Value" "Pico" (id 1) (at 0 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "RPi_Pico:RPi_Pico_SMD_TH" (id 2) (at 0 0 90)
+    (property "Footprint" "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" (id 2) (at 0 0 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
